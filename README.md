@@ -2,7 +2,7 @@
 <div align="center">
   <h1> React Portfolio Website</h1>
 
-  <img alt="Demo" src="https://i.ibb.co/y0CGvnG/2023-07-21-13-18-react-portfolio-eight-henna-vercel-app.png" alt="Website Demo" />
+  <img alt="Demo" src="https://i.postimg.cc/L4vkj2pC/2023-07-21-13-18-react-portfolio-eight-henna-vercel-app.png" alt="Website Demo" />
 </div>
 
 [![Contributors][contributors-shield]][contributors-url]
