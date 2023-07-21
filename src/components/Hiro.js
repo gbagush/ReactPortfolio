@@ -18,7 +18,7 @@ let me = {
         language: ["Python", "JavaScript", "PHP"],
         backend: ["NodeJS", "Flask"],
         frontend: ["Bootstrap", "ReactJS"],
-        other: ["Azure", "Arduino"]
+        others: ["Azure", "Arduino"]
     }
 }`;
 

@@ -11,7 +11,10 @@ const CodeSnap = ({ code, language }) => {
     const typed = new Typed(codeRef.current, {
       strings: [code],
       typeSpeed: 40,
-      showCursor: true
+      showCursor: true,
+      onComplete: () => {
+        Prism.highlightElement(codeRef.current);
+      }
     });
 
     // Cleanup Typed.js when the component unmounts
