@@ -5,7 +5,7 @@ const SplashScreen = () => {
     { greeting: 'Hello' },
     { greeting: '¡Hola!' },
     { greeting: 'Bonjour' },
-    { greeting: 'Konnichiwa' },
+    { greeting: 'こんにちは。' },
   ];
 
   useEffect(() => {
