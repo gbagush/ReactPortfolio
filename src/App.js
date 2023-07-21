@@ -13,12 +13,10 @@ function App() {
     document.title = 'Galih Bagus';
     AOS.init();
 
-    // Tampilkan SplashScreen selama 3 detik
     const splashTimeout = setTimeout(() => {
       setShowApp(true);
     }, 3000);
 
-    // Membersihkan timer ketika komponen dibongkar
     return () => clearTimeout(splashTimeout);
   }, []);
 

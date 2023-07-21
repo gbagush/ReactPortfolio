@@ -24,16 +24,8 @@ let me = {
 
     return (
         <>
-        {/* {loaded ?
-        <div
-            className="fixed top-0 left-0 right-0 bottom-0 w-full h-screen z-50 overflow-hidden bg-white flex flex-col items-center justify-center"
-        >Loading...</div>
-            :
-            null
-        } */}
         <div id="home" className="flex w-full h-screen flex-col md:flex-row gap-5 items-center justify-center text-white relative">
             <div className='md:w-3/6 md:p-4'>
-                {/* <img data-aos="flip-right" data-aos-duration="1500" data-aos-offset="200"  src={profile} alt="profile" onLoad={() => setLoaded(false)} /> */}
                 <CodeSnap code={sampleCode} language="javascript" />
             </div>
             <div className='md:w-3/6' data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" >
