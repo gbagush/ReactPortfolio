@@ -12,7 +12,7 @@
 [![MIT License][license-shield]][license-url]
 
 ## About the Project
-This repository is a personal website built using ReactJS, inspired by https://github.com/radendi/personal-portfolio-2 and customized to suit my needs.
+This repository is a personal website built using ReactJS, inspired by [https://github.com/radendi/personal-portfolio-2](https://github.com/radendi/react-portfolio-2) and customized to suit my needs.
 
 ## Build With
 This project was built using these technologies.
